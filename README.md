@@ -1,5 +1,5 @@
 # EngageSDK
-Welcome to Engage SDK user guide. Here, you can find all the code snippets and required to use each and every feature of the Engage SDK. You can also view SDK documentation [here](docs/engage/index.html). Let's get started.
+Welcome to Engage SDK user guide. Here, you can find all the code snippets and required to use each and every feature of the Engage SDK. You can also view SDK documentation [here](https://verlos.github.io/engage-ios-docs/). Let's get started.
 
 
 ## Add Engage in your Project
@@ -11,7 +11,7 @@ pod 'EngageSDK'
 ```
 `Note -> Supports up to xcode 10.3` 
 just type pod install in the terminal and all set.
-You can find documentation of the SDK [here](docs/engage/index.html). Follow this user guide to get started with the SDK.
+You can find documentation of the SDK [here](https://verlos.github.io/engage-ios-docs/). Follow this user guide to get started with the SDK.
 
 ## Initialization
 
