@@ -9,9 +9,17 @@ It's very simple to add engage SDK to your ios project. open your profile file a
 ```groovy
 pod 'EngageSDK'
 ```
-`Note -> Supports up to xcode 10.3` 
+ 
 just type pod install in the terminal and all set.
 You can find documentation of the SDK [here](https://verlos.github.io/engage-ios-docs/). Follow this user guide to get started with the SDK.
+
+## Requirements
+
+>iOS 11.0+
+
+>Xcode 10.3 
+
+`Note -> Supports up to xcode 10.3` 
 
 ## Initialization
 
